@@ -1,0 +1,39 @@
+
+
+body{
+    background: rgb(238, 233, 229);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+     
+     
+}
+/* .container{
+    position: relative;
+    width: 300%;
+    max-width: 1000px;
+    min-height: 500px;
+    background-color: aliceblue;
+    display:grid;
+    align-items: center;
+    margin-left: 250px;
+    
+} */
+.profile-name{
+    background:  #3c473d ;
+    margin-bottom: 20px;
+    padding-top: 50px;
+    
+}
+.abc{
+    
+    padding-left: 60px;
+    
+}
+.adjust-size{
+ padding-left: 30px;
+ padding-top: 30px;
+}
+.space{
+    padding-left: 80px;
+}
